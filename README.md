@@ -36,12 +36,5 @@ The dashboard helps visualize:
 
 ---
 
-## **Dashboard Screenshot**
-
-![Pizza Sales Dashboard](images/pizza-sales-dashboard.jpg)
-
-*(Add the image to your GitHub repo under a folder called `/images` and make sure the file is named `pizza-sales-dashboard.jpg` to match this path)*
-
----
 
 #
