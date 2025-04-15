@@ -1,42 +1,41 @@
 # pizza-sales-dashboard
-# Hotel Management Dashboard
+# Pizza Sales Dashboard
 
-**Power BI | SQL | Data Cleaning | DAX | KPI Tracking**
+**Power BI | Excel | Sales Analysis | DAX | Data Visualization**
 
-This project presents a comprehensive **Hotel Management Dashboard** built using Power BI. It provides insights into **occupancy trends, customer satisfaction, and revenue metrics** to support strategic decision-making in the hospitality sector.
+This project features an interactive **Pizza Sales Dashboard** built using Power BI to explore sales performance, customer preferences, and revenue trends. The dashboard helps identify top-selling pizzas, busiest order times, and the overall health of the business.
 
 ---
 
 ## **Overview**
-The dashboard is designed to help hotel management understand:
-- Room occupancy patterns
-- Revenue breakdowns
-- Customer satisfaction ratings
-- Key performance indicators (KPIs)
+The goal of this project is to provide actionable insights for a pizza restaurant chain by analyzing historical order data. The dashboard is designed for business owners and managers to:
 
-The data was extracted using SQL queries and transformed for reporting using Power BI. Interactive visuals and DAX measures were used to create a real-time, self-service BI experience.
+- Track total revenue and order volume
+- Analyze sales by pizza type, category, and size
+- Identify peak sales hours and days
+- Understand customer behavior patterns
 
 ---
 
 ## **Tools & Skills Used**
-- **Power BI:** Dashboards, DAX, Data Modeling
-- **SQL Server:** Data extraction
-- **Excel:** Pre-cleaning and exploration
-- **Data Cleaning & Transformation**
-- **KPI Tracking**
+- **Power BI:** Dashboards, DAX measures, Slicers, Data Modeling
+- **Excel:** Data cleaning and pre-processing
+- **Data Wrangling & EDA**
+- **KPI Calculation**
 
 ---
 
 ## **Key Features**
-- Dynamic filters to view data by date, location, and room type
-- Custom DAX measures to track revenue per available room (RevPAR), average daily rate (ADR), and occupancy rate
-- Customer feedback analysis with satisfaction scores
-- Automated refresh capability for up-to-date insights
+- Visual breakdown of sales by pizza category (Classic, Veggie, etc.)
+- Top 5 best-selling pizzas
+- Daily and hourly sales trends
+- Dynamic filters by size, category, and date range
+- KPI cards showing total revenue, total orders, and average order value
 
 ---
 
 ## **Screenshots**
-*(Add visuals of your dashboard here using Markdown or upload directly to the repo)*
+*(Upload your dashboard images to an `/images` folder in your repo and link them here)*
 
 ```md
-![Hotel Dashboard Overview](images/hotel-dashboard-overview.png)
+![Pizza Sales Overview](images/pizza-dashboard-overview.png)
